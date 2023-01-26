@@ -1,7 +1,7 @@
 const path = require('path');
 const { RawSource } = require('webpack-sources');
 const postcss = require('postcss');
-const purge = require('./purge,js');
+const purge = require('./purge.js');
 
 function Plugin(options) {
 }
