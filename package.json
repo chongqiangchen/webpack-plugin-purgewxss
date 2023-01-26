@@ -1,0 +1,24 @@
+{
+  "name": "webpack-plugin-purgewxss",
+  "version": "0.0.1-alpha.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "postcss-selector-parser": "^6.0.11",
+    "webpack-sources": "^3.2.3"
+  },
+  "devDependencies": {
+    "postcss": "^8.4.21",
+    "webpack": "^5.64.4"
+  },
+  "peerDependencies": {
+    "webpack": "^4.0.0 || ^5.0.0",
+    "postcss": ">=7.0.0"
+  }
+}
