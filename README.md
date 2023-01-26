@@ -17,7 +17,7 @@
     },
     webpackChain(chain) {
       // ...
-      chain.plugin('PurgeWxss Plugin').use(PurgeWxssPlugin, [{ name: 'test' }]);
+      chain.plugin('PurgeWxssPlugin').use(PurgeWxssPlugin);
     },
  }
 ```
