@@ -81,11 +81,8 @@ const purgePlugin = (options) => {
 
   extractInfo.tag.push('page');
   extractInfo.tag.push('component');
-
   extractInfo.tag.push('image');
   extractInfo.tag.push('video');
-
-  console.log(extractInfo);
   
   return {
     postcssPlugin: 'postcss-purge',

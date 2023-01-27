@@ -1,7 +1,7 @@
 {
   "name": "webpack-plugin-purgewxss",
-  "version": "0.0.1",
-  "description": "",
+  "version": "0.0.2",
+  "description": "clear useless css",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,7 +16,7 @@
     "unxcss",
     "webpack"
   ],
-  "author": "",
+  "author": "daxiongya",
   "license": "ISC",
   "dependencies": {
     "postcss-selector-parser": "^6.0.11",
