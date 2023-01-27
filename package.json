@@ -6,7 +6,16 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "taro",
+    "wxss",
+    "mini",
+    "purgewxss",
+    "purge css",
+    "uncss",
+    "unxcss",
+    "webpack"
+  ],
   "author": "",
   "license": "ISC",
   "dependencies": {
