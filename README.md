@@ -1,7 +1,7 @@
 ## Webpack Plugin PurgeWxss
 
 ### 支持情况
-因项目较老，暂时只考虑到Taro2.x版本
+因项目较老，暂时只考虑到Taro2.x版本，插件本身仅对编译后的WXML和对应的WXSS进行检查，故实际未与Taro产生强关联，但暂时只在Taro中尝试进行使用。
 
 ### 介绍
 
